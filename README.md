@@ -1,4 +1,4 @@
-# SMS
+# Student Management System
 The system is a desktop application developed using Python with Tkinter for the graphical
 user interface (GUI) and MySQL as the database for persistent data storage. The system
 allows users to perform CRUD operations (Create, Read, Update, and Delete) on student
